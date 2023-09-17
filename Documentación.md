@@ -18,7 +18,7 @@
    - Opcional: Otros aspectos relevantes a considerar (costos, relación con la industria, certificaciones, especializaciones).
 9. **Revisión de ortografía** *SU*
    - Persona encargada de revisar tanto la redacción como la ortografía del trabajo.
-10. **Revisión final** *SU*
+10. **Revisión final** *SA*
    - Persona encargada de revisar la versión final del trabajo e indicar si algo se tiene que corregir.
 
 -----------
