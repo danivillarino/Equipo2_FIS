@@ -1,6 +1,6 @@
 | Fotografía | Descripción | 
 |:----------:|:-----------:|
-| ![ alt text](./image. jpg) |             |
+|<img src="img/IMG_0050.jpeg"/> |             |
 |            |             |
 |            |             |
 |            |             |
