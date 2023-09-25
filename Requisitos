@@ -1,1 +1,14 @@
+Requerimentos funcionales
+1. Un interfaz que te permita buscar guías de turismo cerca de tu zona.
+2. Una interfaz que te permita buscar otros turístas cerca de donde estás(Evidentemente esto es solo para el que decida compartir su ubicación)
+3. Un mapa de Mérida con los lugares turísticos para visitar, con una breve descrpición de estos y sus horarios actualizados.
+4. Habrá un pestaña de foros en las que los turistas dejen sus opiniones y tips acerca de los lugares que han visitado para ayudar a los demás usuarios a tener una mejor experiencia al visitarlos.
+5. Habrá una pestaña en la que podrás organizar tu itinerario, en esta pondrás las actividades que quieres realizar, y si planeas una actividad en un horario que no se puede realizar, te saldrá una advertencia y se sugerirá cambiar de plan.
 
+Requerimientos no funcionales 
+1.Seguridad: Es nuestar responsabilidad salvaguardar los datos personales y contraseñas que nos proporcionen nuestros usuasrios.
+2. Actuación: se planea que la app pueda tener hasta 2000 usuarios activos sin que se caiga el sistema.
+3. Disponibilidad: Es una app que esta al servicio del usuario las 24/7, exceptuando únicamente los día que se tenga que dar mantenimiento al software, para lo cual se le informará previamente a los usuarios.
+4. Portabilidad: Se planea que el Software pueda correr tanto en dispositivos iOS como Andorid.
+5. Usabilidad: Es muy sencilla de usar, las funciones son muy fáciles de comprender, pero para mayor comprensión del usuario se dará un guía interactiva la primera vez que inicie en la aplicación.
+6. 
