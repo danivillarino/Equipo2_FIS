@@ -1,12 +1,8 @@
-Alcances
-1. Encontrar turistas cercanos a tu ubicación.
-2. Encontrar guías de turismo.
-3. Guías de turismo se pueden promocionar.
-4. Disponibilidad en todo el mundo.
-5. La aplicación esta activa 24/7.
+| Alcances | Limitaciones |
+|:--------:|:------------:|
+| Encontrar turistas cercanos a tu ubicación | Solo puede usar en dispositivos IOS y Android |
+| Encontrar guías de turismo | Solo se podrá usar de v11 en adelante en Android, y en IOS de 14 en adelante |
+| Guías de turismo se pueden promocionar | La aplicación no estará disponible en horarios de mantenimineto |
+| Disponibilidad en todo el mundo | La interfaz soprtará a 2000 usuarios a la vez (Beta) |
+| La aplicación esta activa 24/7 |              |
 
-Limitaciones
-1. Solo puede usar en dispositivos IOS y Android.
-2. Solo se podrá usar de v11 en adelante en Android, y en IOS de 14 en adelante. 
-3. La aplicación no estará disponible en horarios de mantenimineto.
-4. La interfaz soprtará a 2000 usuarios a la vez (Beta).
