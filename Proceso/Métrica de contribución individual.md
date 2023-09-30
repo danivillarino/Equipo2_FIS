@@ -1,8 +1,8 @@
 | Actividad | Puntos | ¿Quién lo realizó? |
 |:------:|:--------:|:----------:|
 | Descripción del producto | 3 | Todos
-| Usuarios/clientes | 1 | Todos
-| Propuesta de valor | 2 | Todos
+| Usuarios/clientes | 2 | Todos
+| Propuesta de valor | 3 | Todos
 | Pasar lo anterior al repositorio | 1 | Daniela |
 | Descripción del proceso | 3 | Axel |
 | Gestión del proceso | 3 | Axel |
