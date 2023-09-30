@@ -7,6 +7,10 @@ TuriAmigos primera entrega
 - Usuarios/clientes
 - Propuesta de valor
 
+## [Requisitos](https://github.com/danivillarino/Equipo2_FIS/tree/59ca466c84ccad9e8d36ed47b3c3b03ff6ea68ee/Requisitos)
+- Tabla de requerimientos
+- Casos de uso
+
 ## [Proceso](https://github.com/danivillarino/Equipo2_FIS/tree/12cbb35fdbd83a092a686fb85447962a5012b2c6/Proceso)
 - Descripción del proceso
 - Gestión del proceso
