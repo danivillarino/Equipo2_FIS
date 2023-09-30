@@ -13,5 +13,8 @@
 | Organización y documentación del repositorio | 3 | Daniela |
 | Script del video | 2 | Jefte |
 | Edición del video | 3 | Daniela |
-| Competencias genéricas | 3 | Rodrigo
-| Competencias específicas | 3 | Rodrigo
+| Competencias genéricas | 3 | Rodrigo |
+| Competencias específicas | 3 | Rodrigo |
+
+----
+### [*Volver al índice*](https://github.com/danivillarino/Equipo2_FIS/blob/75ff6b2c83f91fe65ded7a8f1af9b9d5d9d6c292/%C3%8Dndice.md)
