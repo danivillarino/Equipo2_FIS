@@ -1,4 +1,4 @@
-Competencias Genéricas:
+## Competencias Genéricas:
 
 Comunicación efectiva: Los miembros del equipo deben ser capaces de comunicarse de manera efectiva tanto en español como en inglés dada la interacción con los usuarios finales.
 
@@ -10,7 +10,7 @@ Creatividad e innovación: Se necesita la capacidad de pensar de manera creativa
 
 Comunicación con usuarios: Los desarrolladores deben ser competentes en la comunicación con usuarios finales para entender sus necesidades, recibir retroalimentación y realizar mejoras continuas en el software.
 
-Competencias Específicas:
+## Competencias Específicas:
 
 Desarrollo de aplicaciones móviles: Los miembros del equipo deben tener experiencia en el desarrollo de aplicaciones móviles para Android e iOS, utilizando tecnologías y lenguajes de programación relevantes.
 
