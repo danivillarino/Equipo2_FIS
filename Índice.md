@@ -16,6 +16,6 @@ TuriAmigos primera entrega
 ## Presentación del avance
 - Script del video
 
-## Competencias
-- Competencias genéricas 
-- Competencias específicas
+## [Competencias](https://github.com/danivillarino/Equipo2_FIS/tree/aaaa25855d5a251e0f5cf4467bd58661d12b948f/Competencias)
+- [Competencias genéricas](https://github.com/danivillarino/Equipo2_FIS/blob/main/Competencias/competencias.md#competencias-gen%C3%A9ricas)
+- [Competencias específicas](https://github.com/danivillarino/Equipo2_FIS/blob/main/Competencias/competencias.md#competencias-espec%C3%ADficas)
