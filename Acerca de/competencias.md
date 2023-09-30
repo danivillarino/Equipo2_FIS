@@ -1,6 +1,6 @@
 Competencias Genéricas:
 
-Comunicación efectiva: Los miembros del equipo deben ser capaces de comunicarse de manera efectiva tanto en español como en inglés (para usuarios internacionales) tanto en la documentación del software como en la interacción con otros miembros del equipo y los usuarios finales.
+Comunicación efectiva: Los miembros del equipo deben ser capaces de comunicarse de manera efectiva tanto en español como en inglés dada la interacción con los usuarios finales.
 
 Trabajo en equipo: La colaboración efectiva entre los miembros del equipo es esencial para garantizar el éxito del proyecto. Se requerirá la habilidad de trabajar en conjunto, tomar decisiones en equipo y resolver problemas de manera colaborativa.
 
