@@ -29,3 +29,6 @@ Gestión de contenidos: Habilidad para permitir que restaurantes se registren y 
 Pruebas y calidad de software: Experiencia en la realización de pruebas exhaustivas para garantizar que el software sea robusto, confiable y libre de errores.
 
 En resumen, el desarrollo del software para turistas en Mérida, Yucatán, requerirá una combinación de competencias genéricas, como comunicación efectiva y trabajo en equipo, junto con competencias específicas en desarrollo de aplicaciones móviles, integración de servicios de geolocalización, sistemas de cuentas de usuario, bases de datos y seguridad de datos. La aplicación busca mejorar la experiencia de los turistas, proporcionando información útil y facilitando la interacción entre ellos, lo que requerirá un equipo talentoso y multidisciplinario
+
+------
+### [*Volver al índice*](https://github.com/danivillarino/Equipo2_FIS/blob/5f0608253ce7b1779d851a31f46b5471ef072c75/%C3%8Dndice.md)
