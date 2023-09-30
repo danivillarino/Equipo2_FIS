@@ -1,4 +1,4 @@
-Modelo: SCRUM PROCESS
+##Modelo: SCRUM PROCESS
 El proceso Scrum se basa en realizar el trabajo en iteraciones cortas y fijas de tiempo denominadas sprints, usualmente de 4 semanas de duración.
 Para iniciar un sprint, el equipo Scrum llevara a cabo una reunión de planificación donde seleccionaremos las tareas o historias de usuario de mayor
 prioridad del backlog del producto para ser completadas en ese sprint.
