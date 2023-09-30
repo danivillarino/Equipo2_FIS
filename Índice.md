@@ -7,10 +7,10 @@ TuriAmigos primera entrega
 - Usuarios/clientes
 - Propuesta de valor
 
-## Proceso
+## [Proceso](https://github.com/danivillarino/Equipo2_FIS/tree/12cbb35fdbd83a092a686fb85447962a5012b2c6/Proceso)
 - Descripción del proceso
 - Gestión del proceso
-- Métrica de contribución individual
+- [Métrica de contribución individual](https://github.com/danivillarino/Equipo2_FIS/blob/12cbb35fdbd83a092a686fb85447962a5012b2c6/Proceso/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.md)
 - Organización y documentación del repositorio
 
 ## Presentación del avance
