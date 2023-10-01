@@ -2,6 +2,7 @@
 ---
 TuriAmigos primera entrega
 ---
+[Click aquí para ver el video](https://youtu.be/RSMgmgystf8)
 ## [Producto](https://github.com/danivillarino/Equipo2_FIS/tree/ac64fd5ae54fe14a9bacac07e1beea7dc5454cc6/Producto)
 - Descripción del producto
 - Usuarios/clientes
