@@ -17,7 +17,7 @@ TuriAmigos primera entrega
 - Métrica de contribución individual
 - Organización y documentación del repositorio
 
-## Presentación del avance
+## [Presentación del avance](https://github.com/danivillarino/Equipo2_FIS/tree/f550fa1555e9b4a4d9ff60a3ef2bba88b34e3463/Presentaci%C3%B3n%20del%20avance)
 - Script del video
 
 ## [Competencias](https://github.com/danivillarino/Equipo2_FIS/tree/aaaa25855d5a251e0f5cf4467bd58661d12b948f/Competencias)
