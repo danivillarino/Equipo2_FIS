@@ -1,4 +1,4 @@
-Competencias Genéricas:
+## Competencias Genéricas:
 
 Comunicación efectiva: Los miembros del equipo deben ser capaces de comunicarse de manera efectiva tanto en español como en inglés dada la interacción con los usuarios finales.
 
@@ -10,7 +10,7 @@ Creatividad e innovación: Se necesita la capacidad de pensar de manera creativa
 
 Comunicación con usuarios: Los desarrolladores deben ser competentes en la comunicación con usuarios finales para entender sus necesidades, recibir retroalimentación y realizar mejoras continuas en el software.
 
-Competencias Específicas:
+## Competencias Específicas:
 
 Desarrollo de aplicaciones móviles: Los miembros del equipo deben tener experiencia en el desarrollo de aplicaciones móviles para Android e iOS, utilizando tecnologías y lenguajes de programación relevantes.
 
@@ -29,3 +29,6 @@ Gestión de contenidos: Habilidad para permitir que restaurantes se registren y 
 Pruebas y calidad de software: Experiencia en la realización de pruebas exhaustivas para garantizar que el software sea robusto, confiable y libre de errores.
 
 En resumen, el desarrollo del software para turistas en Mérida, Yucatán, requerirá una combinación de competencias genéricas, como comunicación efectiva y trabajo en equipo, junto con competencias específicas en desarrollo de aplicaciones móviles, integración de servicios de geolocalización, sistemas de cuentas de usuario, bases de datos y seguridad de datos. La aplicación busca mejorar la experiencia de los turistas, proporcionando información útil y facilitando la interacción entre ellos, lo que requerirá un equipo talentoso y multidisciplinario
+
+------
+### [*Volver al índice*](https://github.com/danivillarino/Equipo2_FIS/blob/5f0608253ce7b1779d851a31f46b5471ef072c75/%C3%8Dndice.md)
