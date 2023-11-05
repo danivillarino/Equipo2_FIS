@@ -1,4 +1,4 @@
-### Producto
+# Producto
 -----
 ## Descripción del producto
 
@@ -17,3 +17,6 @@ TuriAmigos se centra en ayudar a los turistas a comunicarse y a tener una mejor 
 Múltiples apps ya implementan la función para encontrar turistas, sin embargo, no tal cual se piensa emplear para este; las aplicaciones similares a TuriAmigos, son más enfocadas en foros e implementan una dinámica diferente, por ejemplo, en vez de mostrar gente cerca en tiempo real, los usuarios publican sus itinerarios o el lugar al que viajarán junto con información adicional como las fechas y horarios. 
     
 En el caso de "TuriAmigos", se utilizará una interfaz estilo radar, la cual te indicará qué otros usuarios de la app están en un rango cercano, sin revelar la ubicación exacta; esta función permitirá por medio de un mensajero, ponerse en contacto con otras personas, ya sean turistas, foráneos, residentes locales o guías de turismo, esto para facilitar y fomentar la comunicación y convivencia entre los usuarios.
+
+----
+### [*Volver al índice*](https://github.com/danivillarino/Equipo2_FIS/blob/75ff6b2c83f91fe65ded7a8f1af9b9d5d9d6c292/%C3%8Dndice.md)
