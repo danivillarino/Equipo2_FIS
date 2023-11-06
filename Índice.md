@@ -2,7 +2,7 @@
 ---
 TuriAmigos segunda entrega
 ---
-[Click aquí para ver el video](https://youtu.be/RSMgmgystf8)
+[Click aquí para ver el video](https://youtu.be/RSMgmgystf8](https://youtu.be/t4gOMaWiP0c?si=econy92gv5OdkElu )
 ## [Producto](https://github.com/danivillarino/Equipo2_FIS/tree/ac64fd5ae54fe14a9bacac07e1beea7dc5454cc6/Producto)
 - Evolución del producto y comparación con la entrega anterior
 
