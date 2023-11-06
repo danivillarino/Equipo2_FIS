@@ -14,4 +14,4 @@ Para la gestión y el registro de las fechas de actividades, así como las fases
 
 El trabajo al cual se le dedicó especial atención fue al diseño de la interfaz de usuario, realizamos un prototipo mediante trabajo simultáneo en la herramienta web [Figma](https://github.com/danivillarino/Equipo2_FIS/blob/main/Diseño/TuriAmigos.md), la cuál fue contó con las funcionalidades efectivas para el diseño. 
 
-La utilización de la [bitácora]() fue clave para el registro de los problemas y soluciones que surgieron durante el desarrollo de las diferentes 
+La utilización de la [bitácora](https://github.com/danivillarino/Equipo2_FIS/blob/main/Producto/Bit%C3%A1cora.md) fue clave para el registro de los problemas y soluciones para optimizar los procesos de desarrollo y ajustarse a las fechas de los sprints.
