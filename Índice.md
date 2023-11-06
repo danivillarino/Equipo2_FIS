@@ -1,26 +1,25 @@
 # Índice 
 ---
-TuriAmigos primera entrega
+TuriAmigos segunda entrega
 ---
-[Click aquí para ver el video](https://youtu.be/RSMgmgystf8)
-## [Producto](https://github.com/danivillarino/Equipo2_FIS/tree/ac64fd5ae54fe14a9bacac07e1beea7dc5454cc6/Producto)
-- Descripción del producto
-- Usuarios/clientes
-- Propuesta de valor
+[Click aquí para ver el video](https://youtu.be/t4gOMaWiP0c?si=econy92gv5OdkElu )
+## Producto
+- [Evolución del producto](https://github.com/danivillarino/Equipo2_FIS/blob/main/Producto/Evolución%20del%20producto.md)
 
-## [Requisitos](https://github.com/danivillarino/Equipo2_FIS/tree/59ca466c84ccad9e8d36ed47b3c3b03ff6ea68ee/Requisitos)
-- Tabla de requerimientos
-- Casos de uso
+## Requisitos
+- [Evolución de requerimientos](https://github.com/danivillarino/Equipo2_FIS/blob/main/Requisitos/Evolución%20de%20requisitos.md)
+- [Tabla de casos de uso](https://github.com/danivillarino/Equipo2_FIS/blob/main/Requisitos/Tablas%20de%20caso%20de%20uso.pdf)
+- [Diagrama de casos de uso](https://github.com/danivillarino/Equipo2_FIS/blob/main/Requisitos/Diagramas%20de%20casos%20de%20uso.pdf)
+- [Historias de usuario](https://github.com/danivillarino/Equipo2_FIS/blob/main/Requisitos/Historias%20de%20usuario.pdf)
+## Diseño
+- [Diseño del prototipo](https://github.com/danivillarino/Equipo2_FIS/blob/main/Dise%C3%B1o/TuriAmigos.md)
 
-## [Proceso](https://github.com/danivillarino/Equipo2_FIS/tree/12cbb35fdbd83a092a686fb85447962a5012b2c6/Proceso)
-- Descripción del proceso
-- Gestión del proceso
-- Métrica de contribución individual
-- Organización y documentación del repositorio
+## Proceso
+- [Gestión y descripción del proceso](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/Gesti%C3%B3n%20del%20Proceso.md)
+- [Métrica de contribución individual](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual%202.md)
 
-## [Presentación del avance](https://github.com/danivillarino/Equipo2_FIS/tree/f550fa1555e9b4a4d9ff60a3ef2bba88b34e3463/Presentaci%C3%B3n%20del%20avance)
-- Script del video
+## Presentación del avance
+- [Script del video](https://github.com/danivillarino/Equipo2_FIS/blob/main/Presentaci%C3%B3n%20del%20avance/Gui%C3%B3n%20entrega%202%20.pdf)
 
-## [Competencias](https://github.com/danivillarino/Equipo2_FIS/tree/aaaa25855d5a251e0f5cf4467bd58661d12b948f/Competencias)
-- Competencias genéricas
-- Competencias específicas
+## Competencias
+- [Competencias](https://github.com/danivillarino/Equipo2_FIS/blob/main/Competencias/Competencias%202.md)
