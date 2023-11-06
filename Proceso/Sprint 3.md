@@ -7,6 +7,6 @@ Adicionalmente, se organizó la recolección de comentarios por parte de testers
 **Inicio** : 23 de octubre 
 **Final** : 29 de octubre
 
-- [Validación de interfaces]()
+- [Validación de interfaces](https://github.com/danivillarino/Equipo2_FIS/blob/main/Dise%C3%B1o/TuriAmigos.md)
 
 > Written with [StackEdit](https://stackedit.io/).
