@@ -7,6 +7,6 @@ Durante la reunión del 17 de octubre del 2023, el equipo resolvió sus dudas so
 **Inicio** : 16 de octubre 
 **Final** : 22 de octubre 
 
- - [Prototipo]()
+ - [Prototipo](https://github.com/danivillarino/Equipo2_FIS/blob/main/Dise%C3%B1o/TuriAmigos.md)
 
 > Written with [StackEdit](https://stackedit.io/).
