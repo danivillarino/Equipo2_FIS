@@ -1,13 +1,17 @@
-<h1>Gestión del Proceso</h1>
-<p align="justify">
-En la gestión de procesos que implicó este sprint, valoramos aspectos importantes, como la métrica de contribución, la cual nos permite visualizar la importancia de colaborar como equipo. Durante las actividades, logramos coordinarnos de manera que se alcanzaran los objetivos propuestos. Para ello, seguimos la metodología Design Sprint, la cual es usualmente utilizada por las empresas para diseñar y desarrollar productos en ciclos cortos e iterativos. Este proceso busca la ideación, la creación de prototipos, las pruebas y el refinamiento.
-</p>
-<p align="justify">
-Para la gestión y el registro de las fechas de actividades, así como las fases del sprint, utilizamos GanttProject, una herramienta que permite realizar tareas consecutivas o simultáneas. De igual forma, para gestionar los problemas y soluciones que surgieron, utilizamos la bitácora.
-</p>
-<p align="justify">
-El trabajo al cual se le dedicó especial atención fue al diseño de la interfaz de usuario, realizamos un prototipo mediante trabajo simultáneo en la herramienta web Figma, la cuál fue contó con las funcionalidades efectivas para el diseño. 
-</p>
-<p align="justify">
-Para finalizar el sprint, daremos seguimiento al prototipo, continuando con las revisiones y correcciones constantes de cualquier requerimiento que así lo requiera, y concluiremos con el diseño tanto del logo como de la aplicación.
-  </p>
+<h1>Proceso</h1>
+
+## Sprints 
+- [Sprint 1](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/Sprint%201.md)
+- [Sprint 2](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/Sprint%202.md)
+- [Sprint 3](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/Sprint%203.md)
+- [Sprint 4](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/Sprint%204.md)
+
+## Gestión del proceso
+
+En la gestión de procesos que implicó este sprint, valoramos artefactos importantes, como la [Métrica de contribución individual](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual%202.md) , que jugó un papel importante en la planeación de cada sprint. Durante las actividades, logramos coordinarnos de manera que se alcanzaran los objetivos propuestos. Para ello, seguimos la metodología Design Sprint, la cual es usualmente utilizada por las empresas para diseñar y desarrollar productos en ciclos cortos e iterativos. Este proceso busca la ideación, la creación de prototipos, las pruebas y el refinamiento.
+
+Para la gestión y el registro de las fechas de actividades, así como las fases del sprint, utilizamos [Gantt Project](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/TuriAmigos.gan), una herramienta que permite realizar tareas consecutivas o simultáneas. De igual forma, para gestionar los problemas y soluciones que surgieron, utilizamos la bitácora.
+
+El trabajo al cual se le dedicó especial atención fue al diseño de la interfaz de usuario, realizamos un prototipo mediante trabajo simultáneo en la herramienta web [Figma](https://github.com/danivillarino/Equipo2_FIS/blob/main/Diseño/TuriAmigos.md), la cuál fue contó con las funcionalidades efectivas para el diseño. 
+
+La utilización de la [bitácora]() fue clave para el registro de los problemas y soluciones que surgieron durante el desarrollo de las diferentes 
