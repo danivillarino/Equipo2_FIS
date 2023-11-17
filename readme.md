@@ -11,7 +11,7 @@ Fundamentos de Ingeniería de Software
 
 ## Entrega:
   - [Resumen gráfico](https://github.com/danivillarino/Equipo2_FIS/blob/PD2-3/Documentaci%C3%B3n/resumen-grafico_PD2-3.pdf)
-  - [Documento]
+  - [Documento](https://github.com/danivillarino/Equipo2_FIS/blob/PD2-3/Documentaci%C3%B3n/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.md)
   - [Métrica de contribución individual](https://github.com/danivillarino/Equipo2_FIS/blob/PD2-3/Documentaci%C3%B3n/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.md)
 
 
