@@ -10,7 +10,7 @@ Fundamentos de Ingeniería de Software
 - Villares Matos Israel Damian  **_(Integrante del equipo)_**
 
 ## Entrega:
-  - [Resumen gráfico](https://github.com/danivillarino/Equipo2_FIS/blob/PD2-3/Documentaci%C3%B3n/resumen-grafico_PD2-3.pdf)
+  - [Resumen gráfico]
   - [Documento](https://github.com/danivillarino/Equipo2_FIS/blob/PD2-3/Documentaci%C3%B3n/PD2-3_equipo02.pdf)
   - Métrica de contribución individual
 
