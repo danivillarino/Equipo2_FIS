@@ -1,6 +1,6 @@
-# Métricas de contribución individual
-## Métrica de contribución al proyecto:
-|Integrante | Porcentaje primera entrega | Porcentaje segunda entrega | Porcentaje tercera entrega | Porcentaje de contribución final |
+# Final activity scores
+## Project final scores:
+|Member | First assignment contribution | Second assignment contribution | Third assignment contribution | Final assignment contribution|
 |:------:|:--------:|:------:|:--------:|:------:|
 | Chunab Poot Jefte Abimael| 11.4% | 14.2% | 11.4% |12.5% |
 | Corona Rivas Daniel Alberto | 19% | 19.1%| 24% | 20.7% |
@@ -10,73 +10,73 @@
 | Villarino Budip Daniela | 19% |19.1% |20.2%  | 19.4% |
 
 ---
-### Métrica de la primera entrega:
-| Actividad | Puntos | ¿Quién lo realizó? |
+### First assignment scores:
+| Activity | Percentage | Work distribution |
 |:------:|:--------:|:----------:|
-| Descripción del producto | 7.5% | Todos
-| Usuarios/clientes | 5% | Todos
-| Propuesta de valor | 7.5% | Todos
-| Pasar lo anterior al repositorio | 2.5%  | Daniela |
-|Requerimientos funcionales y no funcionales | 7.5%  | Daniel y Damian |
-| Priorización de los requisitos | 7.5%  | Daniel y Damian |
-| Artefactos | 7.5%  | Daniel y Damian |
-| Descripción del proceso | 7.5%  | Axel |
-| Gestión del proceso | 7.5%  | Axel |
-| Métrica de contribución individual | 5%  | Daniela |
-| Organización y documentación del repositorio | 7.5 | Daniela |
-| Script del video | 5%  | Jefte |
-| Edición del video | 7.5%  | Daniela |
-| Competencias genéricas | 7.5%  | Rodrigo |
-| Competencias específicas | 7.5%  | Rodrigo |
+| Product description | 7.5% | Todos
+| Users/Clients | 5% | Todos
+| Value proposal | 7.5% | Todos
+| Write it on GitHub| 2.5%  | Daniela |
+|Functional & non-functional requirements | 7.5%  | Daniel y Damian |
+| Requirements priorization | 7.5%  | Daniel y Damian |
+| Artifacts | 7.5%  | Daniel y Damian |
+| Process description | 7.5%  | Axel |
+| Process management | 7.5%  | Axel |
+| Activity scores | 5%  | Daniela |
+| Repository documentation & organization | 7.5 | Daniela |
+| Video script | 5%  | Jefte |
+| Video editing | 7.5%  | Daniela |
+| Generic skills | 7.5%  | Rodrigo |
+| Specific skills | 7.5%  | Rodrigo |
 
 ---
-### Métrica de la segunda entrega:
-| Actividad | Porcentaje | ¿Quién lo realizó? |
+### Second assignment scores:
+| Activity | Percentage | Work distribution |
 |:------:|:--------:|:----------:|
-| Evolución del producto | 4% | Daniel
-| Evolución de requisitos | 5% | Daniel
-| Historias de usuario | 1% | Damián y Axel
-| Tabla de casos de uso | 8% | Damián y Axel
-| Diagrama de casos de uso | 2% | Damián y Axel
-| Redacción del diseño | 5% | Daniela |
-|Interfaz de mensajería | 10% | Jefte y Rodrigo |
-| Interfaz de perfil | 12% | Axel y Damian |
-| Interfaz de Login/Signup | 12% | Daniela |
+| Product evolution | 4% | Daniel
+| Requirement evolution | 5% | Daniel
+| User stories | 1% | Damián y Axel
+| Use cases table | 8% | Damián y Axel
+| Use cases diagram | 2% | Damián y Axel
+| Design writing | 5% | Daniela |
+|Messaging interface | 10% | Jefte y Rodrigo |
+| Profile interface | 12% | Axel y Damian |
+| Login/Signup interface | 12% | Daniela |
 | Homepage | 2% | Daniela |
-| Descripción del proceso | 3% | Daniel y Rodrigo |
-| Gestión del proceso | 5% | Daniel y Rodrigo |
-| Organización y documentación del repositorio | 10% | Daniel |
-| Métrica de constribución individual | 2% | Daniela |
-| Redacción del guión | 3% | Damián |
-| Edición del video | 6% | Daniela |
-| Competencias genéricas | 5% | Jefte
-| Competencias específicas | 5% | Jefte
+| Process description | 3% | Daniel y Rodrigo |
+| Process management | 5% | Daniel y Rodrigo |
+| Repository documentation & organization | 10% | Daniel |
+| Activity scores | 2% | Daniela |
+| Video script | 3% | Damián |
+| Video editing | 6% | Daniela |
+| Generic skills | 5% | Jefte
+| Specific skills | 5% | Jefte
 ----
-### Métrica de la tercera entrega:
-| Actividad | Porcentaje | ¿Quién lo realizó? |
+### Third assignment scores:
+| Activity | Percentage | Work distribution |
 |:------:|:--------:|:----------:|
-| Evolución del producto | 5.2% | Rodrigo
-|Usuarios | 5.2% | Jefte
-|Innovación | 5.2% | Damián
-| Evolución de requisitos | 5.2% | Daniel
-| Refinamiento de artefactos | 5.2% | Damián y Axel
-| Listado final de requerimientos | 5.2% | Daniel
-| Redacción de la evolución de las interfaces de usuario | 1.7% | Daniela
-| Redacción de la correspondencia con los requisitos | 2% | Daniela
-| Evolución de la interfaz de mensajería | 5.2% | Jefte y Rodrigo |
-| Evolución de la interfaz de perfil | 5.2% | Axel y Damian |
-| Evolución de la interfaz de Login/Signup | 5.2% | Daniela |
-|Evolución de la interfaz de homepage | 1% | Daniela|
-|Pruebas informales | 5.2% | Todos
-| Redacción de los resultados de las pruebas informales | 3.5% | Rodrigo
-| Descripción del proceso | 5.2% | Daniel |
-| Gestión del proceso | 5.2% | Axel|
-| Documentación del repositorio | 5.2% | Daniel |
-| Organización del repositorio | 1.7% | Daniela |
-| Métrica de constribución individual | 3.5% | Daniela |
-| Redacción del guión | 5.2% | Daniel y Daniela |
-| Edición del video | 5.2% | Daniela |
-| Competencias genéricas | 1.7% | Jefte
-| Competencias específicas | 1.7% | Rodrigo
-|Crítica constructiva al curso | 5.2% | Axel
+| Product evolution | 5.2% | Rodrigo
+|Users | 5.2% | Jefte
+|Innovation | 5.2% | Damián
+| Requirement evolution  | 5.2% | Daniel
+| Artifact refinement | 5.2% | Damián y Axel
+| Final requirements list | 5.2% | Daniel
+| Interfaces evolution | 1.7% | Daniela
+| Interfaces reciprocation with the requirements | 2% | Daniela
+| Messaging interface evolution | 5.2% | Jefte y Rodrigo |
+| Profile interface evolution| 5.2% | Axel y Damian |
+| Login/Signup interface evolution | 5.2% | Daniela |
+| Homepage evolution | 1% | Daniela|
+| Informal testings | 5.2% | Todos
+| Informal testings writing | 3.5% | Rodrigo
+| Process description | 5.2% | Daniel |
+| Process management | 5.2% | Axel|
+| Repository documentation | 5.2% | Daniel |
+| Repository organization | 1.7% | Daniela |
+| Activity scores | 3.5% | Daniela |
+| Video script | 5.2% | Daniel y Daniela |
+| Video editing | 5.2% | Daniela |
+| Generic skills | 1.7% | Jefte
+| Specific skills | 1.7% | Rodrigo
+| Course criticism | 5.2% | Axel
 
