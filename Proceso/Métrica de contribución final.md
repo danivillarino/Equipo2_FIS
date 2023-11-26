@@ -2,7 +2,7 @@
 ## Métrica de contribución al proyecto:
 |Integrante | Porcentaje primera entrega | Porcentaje segunda entrega | Porcentaje tercera entrega | Porcentaje de contribución final |
 |:------:|:--------:|:------:|:--------:|:------:|
-| Chunab Poot Jefte Abimael| 11.4% | 14.2% | 11.4$ |12.5% |
+| Chunab Poot Jefte Abimael| 11.4% | 14.2% | 11.4% |12.5% |
 | Corona Rivas Daniel Alberto | 19% | 19.1%| 24% | 20.7% |
 | Farfán Calderón Rodrigo Martín |15.8% | 12.8% |13.6 |14% |
 | Morales Caro Axel Adolfo | 15.8% | 16.3% |17% | 16.3% |
