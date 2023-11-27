@@ -6,7 +6,9 @@ Artiffacts obtained:
 - Generic/Speficic skill of the third assignment
 - Product evolution
 - Final requirements (including translation)
-- Process management
+- Process description and management
 - Timeline
 - Contribution metric
 - Prototype refinement
+- Innovation
+- Requirements evolution 
