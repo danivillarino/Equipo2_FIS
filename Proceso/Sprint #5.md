@@ -1,6 +1,7 @@
 # Sprint 5
 
-Sprint duration: 1 week. November 16th - November 23rd.
+Sprint duration: November 16th - November 23rd.
+
 For this sprint, we focused on some artiffacts for the third assignment, such as planning our next sprint's activities. Some of the activities developed during this sprint were related to translation of such artiffacts and their refinement. 
 
 Artiffacts obtained: 
