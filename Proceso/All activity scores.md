@@ -62,7 +62,7 @@
 | Artifact refinement | 5.2% | Damián y Axel
 | Final requirements list | 5.2% | Daniel
 | Interfaces evolution | 1.7% | Daniela
-| Interfaces reciprocation with the requirements | 2% | Daniela
+| Correspondence with the requirements | 2% | Daniela
 | Messaging interface evolution | 5.2% | Jefte y Rodrigo |
 | Profile interface evolution| 5.2% | Axel y Damian |
 | Login/Signup interface evolution | 5.2% | Daniela |
