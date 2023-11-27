@@ -13,9 +13,9 @@
 ### First assignment scores:
 | Activity | Percentage | Work distribution |
 |:------:|:--------:|:----------:|
-| Product description | 7.5% | Todos
-| Users/Clients | 5% | Todos
-| Value proposal | 7.5% | Todos
+| Product description | 7.5% | Everyone
+| Users/Clients | 5% | Everyone
+| Value proposal | 7.5% | Everyone
 | Write it on GitHub| 2.5%  | Daniela |
 |Functional & non-functional requirements | 7.5%  | Daniel y Damian |
 | Requirements priorization | 7.5%  | Daniel y Damian |
@@ -67,7 +67,7 @@
 | Profile interface evolution| 5.2% | Axel y Damian |
 | Login/Signup interface evolution | 5.2% | Daniela |
 | Homepage evolution | 1% | Daniela|
-| Informal testings | 5.2% | Todos
+| Informal testings | 5.2% |  Everyone
 | Informal testings writing | 3.5% | Rodrigo
 | Process description | 5.2% | Daniel |
 | Process management | 5.2% | Axel|
