@@ -1,4 +1,4 @@
-<h1>Proceso</h1>
+<h1>Process</h1>
 
 ## Sprints 
 
