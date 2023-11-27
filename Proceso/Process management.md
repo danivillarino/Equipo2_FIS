@@ -4,7 +4,7 @@
 - [Sprint 1](https://github.com/danivillarino/Equipo2_FIS/blob/8102534b7af002245e8d5fd0d49b59e0fd70d7de/Proceso/Sprint%20%231.md)
 - [Sprint 2](https://github.com/danivillarino/Equipo2_FIS/blob/db5a78cfe28325c378c41d3f30062ad8429a4fbf/Proceso/Sprint%20%232.md)
 - [Sprint 3](https://github.com/danivillarino/Equipo2_FIS/blob/b04cbd82918f86df45dd86b8a73487246bb8f324/Proceso/Sprint%20%233.md)
-- [Sprint 4](link4)
+- [Sprint 4](https://github.com/danivillarino/Equipo2_FIS/blob/706eec79b52f634748fb6d380c6cb91e821973fc/Proceso/Sprint%20%234.md)
 
 ## Process management
 In the process management involved in this sprint, we valued important artifacts, such as the [Individual Contribution Metric](https://github.com/danivillarino/Equipo2_FIS/blob/e703fce82f840feb6f5d2259f535150c2a7c1ebb/Proceso/All%20activity%20scores.md), 
