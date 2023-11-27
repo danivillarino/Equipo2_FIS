@@ -7,21 +7,11 @@
 - [Sprint 4](link4)
 
 ## Process management
+In the process management involved in this sprint, we valued important artifacts, such as the [Individual Contribution Metric](https://github.com/danivillarino/Equipo2_FIS/blob/e703fce82f840feb6f5d2259f535150c2a7c1ebb/Proceso/All%20activity%20scores.md), 
+which played an important role in the planning of each sprint. During the activities, we managed to coordinate in such a way that the proposed objectives were achieved. For this, we followed the "Design Sprint" methodology, which is usually used by companies to design and develop products in short and iterative cycles. This process seeks ideation, prototyping, testing and refinement. 
 
-En la gestión de procesos que implicó este sprint, valoramos artefactos importantes, como la [Métrica de contribución individual](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual%202.md) ,
-que jugó un papel importante en la planeación de cada sprint. Durante las actividades, logramos coordinarnos de 
-manera que se alcanzaran los objetivos propuestos. Para ello, seguimos la metodología Design Sprint, la cual es usualmente 
-utilizada por las empresas para diseñar y desarrollar productos en ciclos cortos e iterativos. Este proceso busca la ideación, 
-la creación de prototipos, las pruebas y el refinamiento.
+For the management and recording of activity dates, as well as the sprint phases, we use [Gantt Project](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/TuriAmigos.gan), a tool that allows us to perform consecutive or simultaneous tasks. Similarly, to manage the problems and solutions that arose, we used the logbook.
 
-Para la gestión y el registro de las fechas de actividades, así como las fases del sprint, utilizamos [Gantt Project](https://github.com/danivillarino/Equipo2_FIS/blob/main/Proceso/TuriAmigos.gan), una
-herramienta que permite realizar tareas consecutivas o simultáneas. De igual forma, para gestionar los problemas y
-soluciones que surgieron, utilizamos la bitácora.
+The work to which special attention was dedicated was the design of the user interface, we made a prototype by simultaneous work in the web tool [Figma](https://github.com/danivillarino/Equipo2_FIS/blob/main/Diseño/TuriAmigos.md),  which was effective functionalities for the design.
 
-El trabajo al cual se le dedicó especial atención fue al diseño de la interfaz de usuario, realizamos un prototipo mediante
-trabajo simultáneo en la herramienta web [Figma](https://github.com/danivillarino/Equipo2_FIS/blob/main/Diseño/TuriAmigos.md),
-la cuál fue contó con las funcionalidades efectivas para el diseño. 
-
-La utilización de la [bitácora](https://github.com/danivillarino/Equipo2_FIS/blob/main/Producto/Bit%C3%A1cora.md) fue clave para el registro de los problemas y soluciones para optimizar los procesos de desarrollo 
-y ajustarse a las fechas de los sprints.
-
+Thue use of the [logbook](pendiente)  was key to record the problems and solutions to optimize the development processes and meet the sprint dates.
