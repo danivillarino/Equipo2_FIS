@@ -9,8 +9,8 @@ We wanted to make not only an aesthetically pleasing interface, but also an intu
 
 ## Correspondency with the requirements
 **_About the login interface:_**
-> Requirement: 
-> 
+> Requirement:
+> - The app has a login in which users can create an account or access with another account (Google, Apple, Facebook), as well as a "forgot password" option with e-mail verification.
 
 This is the first interface that shows up when you open the app, you can login with not only an e-mail, but also with a Facebook, Google or even an iCloud account. 
 
