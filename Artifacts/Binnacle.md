@@ -9,5 +9,7 @@
 | Week 5 : October 30 -  November 6 | Last team meeting for final comments on the repository organization. | A file management micro-protocol was required so we could properly upload our final artiffacts to the repository and merge everything together. | We established that files could be organized according to the assignment rubric, also giving us a better organization so we could create a proper index inside the branch. |
 
 # November Binnacle 
+| Week | Activities Completed | Problems | Solutions | 
+| :---: | :---: | :---: |  :---: | 
 | Week 6 (November 16 - November 23 ) | Meeting with the teacher, we talked about the direction of the project, improvements for the project. | We lacked clarity in certain aspects  involving non functional requirements that were not covered yet. | THe tacher solved our questions and recommended to discard those requirements. | 
 | Week 7 (November 24 - November 30) | Correction of errors. | Small problems in the repository, especially with the links in the branches. | Updated links and editorial errors. Hyperlinks added. |
