@@ -59,11 +59,11 @@
 |Users | 5.2% | Jefte
 |Innovation | 5.2% | Damián
 | Requirement evolution  | 5.2% | Daniel
-| Artifact refinement | 5.2% | Damián y Axel
+| Artifact refinement | 5.2% | Damián and Axel
 | Final requirements list | 5.2% | Daniel
 | Interfaces evolution | 1.7% | Daniela
 | Correspondence with the requirements | 2% | Daniela
-| Messaging interface evolution | 5.2% | Jefte y Rodrigo |
+| Messaging interface evolution | 5.2% | Jefte and Rodrigo |
 | Profile interface evolution| 5.2% | Axel y Damian |
 | Login/Signup interface evolution | 5.2% | Daniela |
 | Homepage evolution | 1% | Daniela|
@@ -74,7 +74,7 @@
 | Repository documentation | 5.2% | Daniel |
 | Repository organization | 1.7% | Daniela |
 | Activity scores | 3.5% | Daniela |
-| Video script | 5.2% | Daniel y Daniela |
+| Video script | 5.2% | Daniel and Daniela |
 | Video editing | 5.2% | Daniela |
 | Generic skills | 1.7% | Jefte
 | Specific skills | 1.7% | Rodrigo
