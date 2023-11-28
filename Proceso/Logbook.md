@@ -1,0 +1,12 @@
+﻿# Logbook (October-November)
+
+| Week | Activities performed | Problems | Solutions |
+| :---------: | :--------: | :--------: | :---------: |
+| Week 1( October 2 to 8) | Team meeting for initial activity partitioning and individual contribution metric design. | Need for management in the stages of upcoming developments. | Sprints were used to divide the stages. A chronogram of activities was kept with the GanttProject tool. |
+| Week 2 (October 9 to 15) | First meeting with Professor Luis Basto to review project progress. | During the meeting there were corrections to the security requirements by the professor. | The requirement was reviewed and its wording was adjusted shortly. |
+| Week 3 (October 16 to 22) | Interface design and changes in the tools to be used. Third team meeting. | For practicality, the prototype design tool was changed from Adobe After Effects to Figma. The team needs to familiarize themselves with the tool and make decisions about the graphic design of the prototype. | The team set to work to familiarize themselves with the tool and meetings for basic interface design decisions were frequent. |
+| Week 4 (October 23 to 30) | Team meeting for interface validation dynamics. | A method was required to validate the prototype interfaces with the team and testers. | Use cases and user stories were used as support to create instructions for testers to walk through the application and provide final feedback, and corrections were applied to the design according to the feedback. |
+| Week 5 (October 30 to 6 November) | Last team meeting for feedback on repository organization. | The need arose for the creation of an organizational system for the implementation of the files in the repository. | It was decided to partition the repository into sections according to the rubric of the second delivery and to optimize the design in the final format of the repository's home page.  |
+| Week 6 (November 6 to 13) | Meeting with the teacher, we talked about the direction of the project, improvements for the project. | We lacked clarity in certain aspects for a greater focus on interfaces. | A team meeting was held to verify that the design is understandable and coherent with the other aspects. |  \
+| Week 7 (November 13 to 20) | Correction of errors | Small problems in the repository, especially with the links in the branches. | Updated links and editorial errors. |
+
