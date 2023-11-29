@@ -22,4 +22,4 @@ For the management and recording of activity dates, as well as the sprint phases
 
 The work to which special attention was dedicated was the design of the user interface, we made a prototype by simultaneous work in the web tool [Figma](actualizar),  which was effective functionalities for the design, along with the team has given the appropriate monitoring for its proper development.
 
-Thue use of the [logbook](pendiente)  was key to record the problems and solutions to optimize the development processes and meet the sprint dates.
+Thue use of the [Binnacle](https://github.com/danivillarino/Equipo2_FIS/blob/8bb6723d86c9747e103ff48e4849ba58020d45eb/Proceso/Logbook.md)  was key to record the problems and solutions to optimize the development processes and meet the sprint dates.
