@@ -13,4 +13,5 @@ Artifacts obtained:
 - Contribution metric
 - Prototype refinement
 - Innovation
-- Requirements evolution 
+- Requirements evolution
+- Users  
