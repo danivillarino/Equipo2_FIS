@@ -6,5 +6,5 @@ taking the user stories as a guide.
 During the October 17, 2023 meeting, the team resolved their doubts about the figma platform in a collaborative manner, 
 ensuring an effective use of the tool and in accordance with the use cases.
 
-Activities carried out:
+Artifacts obtained:
 - Prototype
