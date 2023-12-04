@@ -1,4 +1,4 @@
-**Artefacto 2**
+# Artefacto 2
 
 La aplicación cuenta con un sistema de perfiles editables, en el que los usuarios pueden verificar las identidades de otros, como origen, número de viajes, edad, sexo.
 
