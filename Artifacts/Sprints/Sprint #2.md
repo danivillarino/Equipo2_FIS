@@ -8,3 +8,4 @@ ensuring an effective use of the tool and in accordance with the use cases.
 
 Activities carried out:
 - Prototype
+![Alt text](image.png)
