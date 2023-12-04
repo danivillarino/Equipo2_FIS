@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2023-10-22" view-index="0" gantt-divider-location="285" resource-divider-location="300" version="3.2.3230" locale="en_US">
+    <description/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Name" width="154" order="0"/>
+        <field id="tpd4" name="Begin date" width="58" order="1"/>
+        <field id="tpd5" name="End date" width="57" order="2"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="color.recent">
+            <![CDATA[#ff9999 #99ff00 #cc00cc #3300cc #00cc99 #0000cc #99cc00 #009999 #ff3333]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="36" name="Third assignment" meeting="false" start="2023-11-16" duration="6" complete="100" expand="true">
+            <task id="38" name="Sprint #5" meeting="false" start="2023-11-16" duration="6" complete="100" expand="true">
+                <task id="49" name="Requirements evolution" meeting="false" start="2023-11-17" duration="1" complete="100" expand="true"/>
+                <task id="48" name="Innovation" meeting="false" start="2023-11-20" duration="3" complete="100" expand="true"/>
+                <task id="47" name="Prototype refinement" color="#8cb6ce" meeting="true" start="2023-11-16" duration="0" complete="100" thirdDate="2023-11-16" thirdDate-constraint="0" expand="true">
+                    <depend id="52" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="52" name="Prototype refinement" meeting="false" start="2023-11-16" duration="4" complete="100" expand="true"/>
+                <task id="50" name="Artifact refinement" meeting="false" start="2023-11-16" duration="4" complete="100" expand="true"/>
+                <task id="51" name="Course criticism" meeting="false" start="2023-11-23" duration="1" complete="100" expand="true"/>
+                <task id="46" name="Contribution metric" meeting="false" start="2023-11-16" duration="2" complete="100" expand="true"/>
+                <task id="45" name="Timeline" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="44" name="Process management" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="43" name="Process description" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="42" name="Final requirements" color="#8cb6ce" meeting="true" start="2023-11-16" duration="0" complete="100" thirdDate="2023-11-16" thirdDate-constraint="0" expand="true">
+                    <depend id="53" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="53" name="Final Requirements" color="#8cb6ce" meeting="false" start="2023-11-16" duration="1" complete="100" thirdDate="2023-11-16" thirdDate-constraint="0" expand="true"/>
+                <task id="41" name="Product evolution" meeting="false" start="2023-11-17" duration="1" complete="100" expand="true"/>
+                <task id="40" name="Generic/specific skills" meeting="false" start="2023-11-16" duration="1" complete="100" expand="true"/>
+            </task>
+        </task>
+    </tasks>
+    <resources>
+        <resource id="0" name="Daniela VIllarino " function="Default:1" contacts="" phone=""/>
+        <resource id="1" name="Daniel Corona " function="Default:0" contacts="" phone=""/>
+        <resource id="2" name="Damian Villares " function="Default:0" contacts="" phone=""/>
+        <resource id="3" name="Axel Morales " function="Default:0" contacts="" phone=""/>
+        <resource id="4" name="Rodrigo Farfán " function="Default:0" contacts="" phone=""/>
+        <resource id="5" name="Jefte Chunab " function="Default:0" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="47" resource-id="0" function="Default:1" responsible="true" load="24.0"/>
+        <allocation task-id="52" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="42" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="43" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="49" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="45" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="53" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="47" resource-id="2" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="48" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="52" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="44" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="50" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="51" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="3" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="40" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="41" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="4" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="52" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="5" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="40" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="52" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
