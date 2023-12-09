@@ -2,12 +2,12 @@
 ## Project final scores:
 |Member | First assignment contribution | Second assignment contribution | Third assignment contribution | Final assignment contribution|
 |:------:|:--------:|:------:|:--------:|:------:|
-| Chunab Poot Jefte Abimael| 11.4% | 14.2% | 11.4% |12.5% |
-| Corona Rivas Daniel Alberto | 19% | 19.1%| 24% | 20.7% |
-| Farfán Calderón Rodrigo Martín |15.8% | 12.8% |13.6% |14% |
-| Morales Caro Axel Adolfo | 15.8% | 16.3% |17% | 16.3% |
-| Villares Matos Israel Damián |19% | 18.5%| 13.8% |17.1% |
-| Villarino Budip Daniela | 19% |19.1% |20.2%  | 19.4% |
+| Chunab Poot Jefte Abimael| 11.4% | 14.2% | 16.1% | 84.3% |
+| Corona Rivas Daniel Alberto | 19% | 19.1%| 20.2% | 100% |
+| Farfán Calderón Rodrigo Martín |15.8% | 12.8% | 11.3% |80% |
+| Morales Caro Axel Adolfo | 15.8% | 16.3% | 17.4% | 99.3% |
+| Villares Matos Israel Damián |19% | 18.5%| 13% |100% |
+| Villarino Budip Daniela | 19% |19.1% | 22%  | 100% |
 
 ---
 ### First assignment scores:
@@ -55,28 +55,31 @@
 ### Third assignment scores:
 | Activity | Percentage | Work distribution |
 |:------:|:--------:|:----------:|
-| Product evolution | 5.2% | Rodrigo
-|Users | 5.2% | Jefte
-|Innovation | 5.2% | Damián
-| Requirement evolution  | 5.2% | Daniel
-| Artifact refinement | 5.2% | Damián y Axel
-| Final requirements list | 5.2% | Daniel
-| Interfaces evolution | 1.7% | Daniela
-| Correspondence with the requirements | 2% | Daniela
-| Messaging interface evolution | 5.2% | Jefte y Rodrigo |
-| Profile interface evolution| 5.2% | Axel y Damian |
-| Login/Signup interface evolution | 5.2% | Daniela |
-| Homepage evolution | 1% | Daniela|
-| Informal testings | 5.2% | Todos
-| Informal testings writing | 3.5% | Rodrigo
-| Process description | 5.2% | Daniel |
-| Process management | 5.2% | Axel|
-| Repository documentation | 5.2% | Daniel |
-| Repository organization | 1.7% | Daniela |
-| Activity scores | 3.5% | Daniela |
-| Video script | 5.2% | Daniel y Daniela |
-| Video editing | 5.2% | Daniela |
-| Generic skills | 1.7% | Jefte
-| Specific skills | 1.7% | Rodrigo
-| Course criticism | 5.2% | Axel
+| Product evolution | 3% | Rodrigo
+|Users | 4.7% | Jefte
+|Innovation | 3% | Damián
+| Requirement evolution  | 3% | Daniel
+| Artifact refinement | 4.7% | Damián y Axel
+| Final requirements list | 4.7% | Daniel
+| Interfaces evolution | 3% | Daniela
+| Correspondence with the requirements | 4.7% | Daniela
+| Messaging interface evolution | 4.7% | Jefte y Rodrigo |
+| Profile interface evolution| 4.7% | Axel y Damian |
+| Login/Signup interface evolution | 4.7% | Daniela |
+| Homepage evolution | 1.5% | Daniela|
+| Informal testings | 4.7% | Todos
+| Informal testings writing | 4.7% | Daniela
+|Definition of Done | 4.7% | Jefte
+| Process description | 4.7% | Daniel |
+| Process management | 4.7% | Axel|
+| Repository documentation | 4.7% | Daniel |
+| Repository organization | 1.5% | Daniela |
+| Activity scores | 4.7% | Daniela |
+| Video script | 3% | Daniel y Daniela |
+| Video editing | 4.7% | Jefte |
+| Generic skills | 3% | Jefte
+| Specific skills | 3% | Rodrigo
+| Course criticism | 4.7% | Axel
+
+total 64
 
