@@ -13,3 +13,4 @@
 | :---: | :---: | :---: |  :---: | 
 | Week 6 (November 16 - November 23 ) | Meeting with the teacher, we talked about the direction of the project, improvements for the project. | We lacked clarity in certain aspects  involving non functional requirements that were not covered yet. | THe tacher solved our questions and recommended to discard those requirements. | 
 | Week 7 (November 24 - November 30) | Correction of errors. | Small problems in the repository, especially with the links in the branches. | Updated links and editorial errors. Hyperlinks added. |
+| Week 8 (November 30 - December 8) | Scrum framework comparations meeting | None | None | 

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2023-09-10" view-index="0" gantt-divider-location="300" resource-divider-location="300" version="3.2.3230" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2023-09-17" view-index="0" gantt-divider-location="270" resource-divider-location="300" version="3.2.3230" locale="en_US">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Name" width="171" order="0"/>
-        <field id="tpd4" name="Begin date" width="64" order="1"/>
-        <field id="tpd5" name="End date" width="64" order="2"/>
+        <field id="tpd3" name="Name" width="153" order="0"/>
+        <field id="tpd4" name="Begin date" width="58" order="1"/>
+        <field id="tpd5" name="End date" width="58" order="2"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="color.recent">
             <![CDATA[#ff9999 #99ff00 #cc00cc #3300cc #00cc99 #0000cc #99cc00 #009999 #ff3333]]>
@@ -37,38 +37,66 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="22" name="Descripción de sprints" color="#8cb6ce" meeting="false" start="2023-10-02" duration="25" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
-        <task id="9" name="1er Sprint" color="#000000" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="false">
-            <depend id="15" type="2" difference="0" hardness="Strong"/>
-            <task id="13" name="Casos de uso (tabla y diagrama)" color="#8cb6ce" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-09-11" thirdDate-constraint="0" expand="true"/>
-            <task id="7" name="Evolución y cambios en requerimientos" color="#8cb6ce" meeting="false" start="2023-10-02" duration="2" complete="100" thirdDate="2023-10-05" thirdDate-constraint="0" expand="true"/>
-            <task id="34" name="Diseño de métrica de contribución individual" meeting="false" start="2023-10-02" duration="10" complete="100" expand="true"/>
-            <task id="14" name="Evolución del producto" meeting="false" start="2023-10-04" duration="3" complete="100" expand="true"/>
-            <task id="16" name="Refinamiento de artefactos" meeting="false" start="2023-10-02" duration="10" complete="100" expand="true"/>
-            <task id="28" name="Competencias genérica y específicas" color="#8cb6ce" meeting="false" start="2023-10-02" duration="5" complete="100" thirdDate="2023-09-25" thirdDate-constraint="0" expand="true"/>
-            <task id="23" name="Redacción de gestión del proceso" color="#8cb6ce" meeting="false" start="2023-10-02" duration="5" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
-        </task>
-        <task id="15" name="2do Sprint (diseño de UI)" color="#000000" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="false">
-            <depend id="30" type="2" difference="0" hardness="Strong"/>
-            <task id="18" name="Interfaz de mensajería" meeting="false" start="2023-10-16" duration="5" complete="100" expand="true"/>
-            <task id="19" name="Interfaz de perfil" meeting="false" start="2023-10-16" duration="5" complete="100" expand="true"/>
-            <task id="20" name="Interfaz de Login/SIgnUp" meeting="false" start="2023-10-16" duration="5" complete="100" expand="true"/>
-            <task id="21" name="Homepage" meeting="false" start="2023-10-16" duration="5" complete="100" expand="true"/>
-        </task>
-        <task id="30" name="3er Sprint (Validación de interfaces" meeting="false" start="2023-10-23" duration="5" complete="100" expand="false">
-            <depend id="26" type="2" difference="0" hardness="Strong"/>
-            <task id="32" name="Correspondencia con requisitos" color="#8cb6ce" meeting="false" start="2023-10-23" duration="3" complete="100" thirdDate="2023-10-23" thirdDate-constraint="0" expand="true">
-                <depend id="33" type="2" difference="0" hardness="Strong"/>
+        <task id="35" name="Second assignment" color="#8cb6ce" meeting="false" start="2023-10-02" duration="25" complete="100" thirdDate="2023-09-11" thirdDate-constraint="0" expand="false">
+            <task id="22" name="Sprint planning" color="#8cb6ce" meeting="false" start="2023-10-02" duration="25" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="9" name="Sprint #1" color="#000000" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="false">
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <task id="13" name="Use cases" color="#8cb6ce" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-09-11" thirdDate-constraint="0" expand="true"/>
+                <task id="7" name="Requirements evolution" color="#8cb6ce" meeting="false" start="2023-10-02" duration="2" complete="100" thirdDate="2023-10-05" thirdDate-constraint="0" expand="true"/>
+                <task id="34" name="Contribution metric" color="#8cb6ce" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+                <task id="14" name="Product evaluation" color="#8cb6ce" meeting="false" start="2023-10-04" duration="3" complete="100" thirdDate="2023-10-04" thirdDate-constraint="0" expand="true"/>
+                <task id="16" name="Artifact refinement" color="#8cb6ce" meeting="false" start="2023-10-02" duration="10" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+                <task id="28" name="Generic &amp; Specific skills" color="#8cb6ce" meeting="false" start="2023-10-02" duration="5" complete="100" thirdDate="2023-09-25" thirdDate-constraint="0" expand="true"/>
+                <task id="23" name="Process management redacting" color="#8cb6ce" meeting="false" start="2023-10-02" duration="5" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="33" name="Recolección de comentarios" color="#8cb6ce" meeting="false" start="2023-10-26" duration="2" complete="100" thirdDate="2023-09-18" thirdDate-constraint="0" expand="true"/>
-        </task>
-        <task id="26" name="4to Sprint" color="#8cb6ce" meeting="false" start="2023-10-30" duration="5" complete="100" thirdDate="2023-09-25" thirdDate-constraint="0" expand="false">
-            <task id="17" name="Redacción del diseño" meeting="false" start="2023-10-30" duration="5" complete="100" expand="true"/>
-            <task id="27" name="Guión del video" meeting="false" start="2023-10-30" duration="1" complete="100" expand="true">
-                <depend id="29" type="2" difference="0" hardness="Strong"/>
+            <task id="15" name="Sprint #2" color="#000000" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="false">
+                <depend id="30" type="2" difference="0" hardness="Strong"/>
+                <task id="18" name="Chat UI" color="#8cb6ce" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="true"/>
+                <task id="19" name="Profile UI" color="#8cb6ce" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="true"/>
+                <task id="20" name="LogIn/SignUp UI" color="#8cb6ce" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="true"/>
+                <task id="21" name="Homepage" color="#8cb6ce" meeting="false" start="2023-10-16" duration="5" complete="100" thirdDate="2023-10-16" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="29" name="Eaboración del video" meeting="false" start="2023-10-31" duration="3" complete="100" expand="true"/>
-            <task id="24" name="Organización y documentación del repositorio" color="#ff9999" meeting="false" start="2023-11-03" duration="1" complete="100" thirdDate="2023-11-09" thirdDate-constraint="0" expand="true"/>
+            <task id="30" name="Sprint #3" color="#000000" meeting="false" start="2023-10-23" duration="10" complete="100" thirdDate="2023-10-23" thirdDate-constraint="0" expand="true">
+                <task id="26" name="Sprint #4" color="#8cb6ce" meeting="false" start="2023-10-30" duration="5" complete="100" thirdDate="2023-09-25" thirdDate-constraint="0" expand="true">
+                    <task id="17" name="Design redacting" color="#8cb6ce" meeting="false" start="2023-10-30" duration="5" complete="100" thirdDate="2023-10-30" thirdDate-constraint="0" expand="true"/>
+                    <task id="27" name="Video script" color="#8cb6ce" meeting="false" start="2023-10-30" duration="1" complete="100" thirdDate="2023-10-30" thirdDate-constraint="0" expand="true">
+                        <depend id="29" type="2" difference="0" hardness="Strong"/>
+                    </task>
+                    <task id="29" name="Video editing" color="#8cb6ce" meeting="false" start="2023-10-31" duration="3" complete="100" thirdDate="2023-10-31" thirdDate-constraint="0" expand="true"/>
+                    <task id="24" name="Repository documentation" color="#ff9999" meeting="false" start="2023-11-03" duration="1" complete="100" thirdDate="2023-11-09" thirdDate-constraint="0" expand="true"/>
+                </task>
+                <task id="32" name="Correspondece with requirements" color="#8cb6ce" meeting="false" start="2023-10-23" duration="3" complete="100" thirdDate="2023-10-23" thirdDate-constraint="0" expand="true">
+                    <depend id="33" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="33" name="Comment collecting" color="#8cb6ce" meeting="false" start="2023-10-26" duration="2" complete="100" thirdDate="2023-09-18" thirdDate-constraint="0" expand="true"/>
+            </task>
+        </task>
+        <task id="36" name="Third assignment" meeting="false" start="2023-11-13" duration="20" complete="100" expand="true">
+            <task id="37" name="Sprint planning" color="#8cb6ce" meeting="false" start="2023-11-13" duration="5" complete="100" thirdDate="2023-10-02" thirdDate-constraint="0" expand="true"/>
+            <task id="38" name="Sprint #5" meeting="false" start="2023-11-16" duration="6" complete="100" expand="false">
+                <task id="49" name="Requirements evolution" meeting="false" start="2023-11-17" duration="1" complete="100" expand="true"/>
+                <task id="48" name="Innovation" meeting="false" start="2023-11-20" duration="3" complete="100" expand="true"/>
+                <task id="47" name="Prototype refinement" color="#8cb6ce" meeting="true" start="2023-11-16" duration="0" complete="100" thirdDate="2023-11-16" thirdDate-constraint="0" expand="true">
+                    <depend id="52" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="52" name="Prototype refinement" meeting="false" start="2023-11-16" duration="4" complete="100" expand="true"/>
+                <task id="50" name="Artifact refinement" meeting="false" start="2023-11-16" duration="4" complete="100" expand="true"/>
+                <task id="51" name="Course criticism" meeting="false" start="2023-11-23" duration="1" complete="100" expand="true"/>
+                <task id="46" name="Contribution metric" meeting="false" start="2023-11-16" duration="2" complete="100" expand="true"/>
+                <task id="45" name="Timeline" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="44" name="Process management" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="43" name="Process description" meeting="false" start="2023-11-20" duration="2" complete="100" expand="true"/>
+                <task id="42" name="Final requirements" meeting="false" start="2023-11-16" duration="1" complete="100" expand="true"/>
+                <task id="41" name="Product evolution" meeting="false" start="2023-11-17" duration="1" complete="100" expand="true"/>
+                <task id="40" name="Generic/specific skills" meeting="false" start="2023-11-16" duration="1" complete="100" expand="true"/>
+            </task>
+            <task id="39" name="Sprint #6" meeting="false" start="2023-11-28" duration="9" complete="100" expand="false">
+                <task id="54" name="Repository organization" color="#8cb6ce" meeting="false" start="2023-12-04" duration="5" complete="100" thirdDate="2023-09-18" thirdDate-constraint="0" expand="true"/>
+                <task id="55" name="Video editing" color="#8cb6ce" meeting="false" start="2023-12-07" duration="2" complete="100" thirdDate="2023-09-18" thirdDate-constraint="0" expand="true"/>
+                <task id="58" name="Scrum comparisons" meeting="false" start="2023-12-04" duration="5" complete="100" expand="true"/>
+                <task id="57" name="Informal testings" meeting="false" start="2023-11-28" duration="7" complete="100" expand="true"/>
+                <task id="56" name="Video script" meeting="false" start="2023-12-01" duration="3" complete="100" expand="true"/>
+            </task>
         </task>
     </tasks>
     <resources>
@@ -88,28 +116,57 @@
         <allocation task-id="34" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
         <allocation task-id="20" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
         <allocation task-id="21" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="0" function="Default:1" responsible="true" load="24.0"/>
+        <allocation task-id="54" resource-id="0" function="Default:1" responsible="false" load="50.0"/>
+        <allocation task-id="57" resource-id="0" function="Default:1" responsible="false" load="16.0"/>
+        <allocation task-id="55" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="56" resource-id="0" function="Default:1" responsible="false" load="50.0"/>
         <allocation task-id="14" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="22" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="7" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="24" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="30" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="23" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="42" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="43" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="49" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="45" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="54" resource-id="1" function="Default:0" responsible="false" load="50.0"/>
+        <allocation task-id="57" resource-id="1" function="Default:0" responsible="false" load="16.0"/>
+        <allocation task-id="56" resource-id="1" function="Default:0" responsible="false" load="50.0"/>
         <allocation task-id="17" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="19" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="16" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="27" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="30" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="2" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="48" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="57" resource-id="2" function="Default:0" responsible="false" load="16.0"/>
         <allocation task-id="13" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="19" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="16" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="30" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="44" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="50" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="51" resource-id="3" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="3" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="57" resource-id="3" function="Default:0" responsible="false" load="16.0"/>
         <allocation task-id="23" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="18" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="30" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="22" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="40" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="41" resource-id="4" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="4" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="57" resource-id="4" function="Default:0" responsible="false" load="20.0"/>
+        <allocation task-id="58" resource-id="4" function="Default:0" responsible="false" load="50.0"/>
         <allocation task-id="30" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="28" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="18" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="47" resource-id="5" function="Default:0" responsible="false" load="19.0"/>
+        <allocation task-id="40" resource-id="5" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="57" resource-id="5" function="Default:0" responsible="false" load="16.0"/>
+        <allocation task-id="58" resource-id="5" function="Default:0" responsible="false" load="50.0"/>
     </allocations>
     <vacations/>
     <previous/>
