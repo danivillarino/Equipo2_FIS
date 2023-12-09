@@ -1,4 +1,5 @@
-Sprint #1 - Start: October 1 End: October 15
+# Sprint #1 
+- Start: October 1 End: October 15
 
 For the first sprint, we focused primarily on preparing documentation effectively to optimize the development of a medium fidelity prototype.
 
