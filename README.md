@@ -1,6 +1,16 @@
 # Index 
 
-TuriAmigos Final Assignment
+## TuriAmigos Final Assignment
+
+### Project contribution:
+|Member | All project contribution|
+|:------:|:--------:|
+| Chunab Poot Jefte Abimael| 84.3% |
+| Corona Rivas Daniel Alberto| 100% |
+| Farfán Calderón Rodrigo Martín |80% |
+| Morales Caro Axel Adolfo | 99.3% |
+| Villares Matos Israel Damián |100% |
+| Villarino Budip Daniela | 100% |
 ---
 [Click here to watch our video](https://youtu.be/zTmt7WCOgLU)
 ## [Product](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Product)
