@@ -10,9 +10,10 @@ TuriAmigos Final Assignment
 
 ## [Requirements](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Requirements)
 - [Requirements evolution](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Requirements/Final_Requirements_list.md)
-- [Use cases]()
+- [Use cases](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Requirements/Use%20cases.pdf)
 - [Use case diagram]()
 - [User Stories]()
+- [Artifacts refinement](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Requirements/Refinement%20of%20artifacts.md)
 
 ## [Design](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Diseño)
 - [Prototype design]()
@@ -29,5 +30,6 @@ TuriAmigos Final Assignment
 - Video script() 
 
 ## [Skills](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Skills)
-- Generic skills 
-- Specific Skills 
+- [Generic skills](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Skills/Generic%20Skills.md) 
+- [Specific Skills]()
+- [Constructive criticism](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Skills/Constructive%20criticism%20of%20the%20course.md) 
