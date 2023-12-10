@@ -9,7 +9,7 @@ TuriAmigos Final Assignment
 -  [Users](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Product/USERS.md)
 
 ## [Requirements](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Requirements)
-- [Requirements evolution]()
+- [Requirements evolution](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Requirements/Final_Requirements_list.md)
 - [Use cases]()
 - [Use case diagram]()
 - [User Stories]()
