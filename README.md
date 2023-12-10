@@ -2,30 +2,32 @@
 ---
 TuriAmigos Final Assignment
 ---
-[Click here to watch our video]()
-## [Product]()
-- Product evolution 
+[Click here to watch our video](https://youtu.be/zTmt7WCOgLU)
+## [Product](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Product)
+- [Product evolution](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Product/Product%20evolution.md)
+-  [Innovation](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Product/Product%20evolution.md)
+-  [Users](https://github.com/danivillarino/Equipo2_FIS/blob/Tercera-entrega/Product/USERS.md)
 
-## [Requirements]()
-- Requirements evolution
-- Use cases
-- Use case diagram
-- User Stories
+## [Requirements](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Requirements)
+- [Requirements evolution]()
+- [Use cases]()
+- [Use case diagram]()
+- [User Stories]()
 
 ## [Design](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Diseño)
-- Prototype design
+- [Prototype design]()
 
-## [Process]()
-- Process description
-- Process Management
-- All activity scores
-- Timeline
+## [Process](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Artifacts)
+- Process description()
+- Process Management()
+- All activity scores()
+- Timeline()
 
-## [Comparations with Scrum]()
+## [Definition of Done](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/DoD)
 
-## [Video script]()
-- Video script 
+## [Video script](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Video%20Script)
+- Video script() 
 
-## [Skills]()
+## [Skills](https://github.com/danivillarino/Equipo2_FIS/tree/Tercera-entrega/Skills)
 - Generic skills 
 - Specific Skills 
