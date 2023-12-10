@@ -6,9 +6,9 @@
 | Corona Rivas Daniel Alberto | 19% | 19.1%| 20.2% | 100% |
 | Farfán Calderón Rodrigo Martín |15.8% | 12.8% | 11.3% |80% |
 | Morales Caro Axel Adolfo | 15.8% | 16.3% | 17.4% | 99.3% |
-| Villares Matos Israel Damián |19% | 18.5%| 13% |100% |
-| Villarino Budip Daniela | 19% |19.1% | 22%  | 100% |
-
+| Villares Matos Israel Damián |19% | 18.5%| 17.1% |100% |
+| Villarino Budip Daniela | 19% |19.1% | 17.3%  | 100% |
+135.1
 ---
 ### First assignment scores:
 | Activity | Percentage | Work distribution |
