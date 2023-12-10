@@ -68,7 +68,7 @@
 | Login/Signup interface evolution | 4.7% | Daniela |
 | Homepage evolution | 1.5% | Daniela|
 | Informal testings | 4.7% | Todos
-| Informal testings writing | 4.7% | Daniela
+| Informal testings writing | 4.7% | Damian
 |Definition of Done | 4.7% | Jefte
 | Process description | 4.7% | Daniel |
 | Process management | 4.7% | Axel|
