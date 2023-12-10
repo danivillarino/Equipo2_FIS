@@ -16,6 +16,6 @@ For the tests, each team member was in charge of choosing 2 people to use the pr
   - Go to your own profile
   - Edit your own profile
 
-After collecting the data, the average time it took the testers to perform these tests was 1 minute and 15 seconds.
+After collecting the data, the average time it took the testers to perform these tests was 1 minute and 30 seconds.
 
 The feedback they gave us was that the app is intuitive, it is easy to use, the color palette is pleasing to the eye and they really liked the design of the app.
